@@ -1,2 +1,2 @@
 # new project
-This is ne project
+This  is new projct created from local repo
